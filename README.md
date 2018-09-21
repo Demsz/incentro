@@ -1,6 +1,6 @@
 # Incentro
 
-Slides en links bij training Angular - Incentro Utrecht - voorjaar 2018
+Slides en links bij trainingen Angular - Incentro Utrecht en Amsterdam - 2018
 
 ## Links tijdens de training - Fundamentals
 
